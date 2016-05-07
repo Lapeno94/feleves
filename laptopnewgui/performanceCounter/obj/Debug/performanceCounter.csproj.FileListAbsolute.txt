@@ -1,0 +1,38 @@
+c:\users\lapen\onedrive\documents\visual studio 2015\Projects\performanceCounter\performanceCounter\bin\Debug\performanceCounter.exe.config
+c:\users\lapen\onedrive\documents\visual studio 2015\Projects\performanceCounter\performanceCounter\bin\Debug\performanceCounter.exe
+c:\users\lapen\onedrive\documents\visual studio 2015\Projects\performanceCounter\performanceCounter\bin\Debug\performanceCounter.pdb
+c:\users\lapen\onedrive\documents\visual studio 2015\Projects\performanceCounter\performanceCounter\obj\Debug\performanceCounter.csprojResolveAssemblyReference.cache
+c:\users\lapen\onedrive\documents\visual studio 2015\Projects\performanceCounter\performanceCounter\obj\Debug\performanceCounter.Form1.resources
+c:\users\lapen\onedrive\documents\visual studio 2015\Projects\performanceCounter\performanceCounter\obj\Debug\performanceCounter.Properties.Resources.resources
+c:\users\lapen\onedrive\documents\visual studio 2015\Projects\performanceCounter\performanceCounter\obj\Debug\performanceCounter.csproj.GenerateResource.Cache
+c:\users\lapen\onedrive\documents\visual studio 2015\Projects\performanceCounter\performanceCounter\obj\Debug\performanceCounter.exe
+c:\users\lapen\onedrive\documents\visual studio 2015\Projects\performanceCounter\performanceCounter\obj\Debug\performanceCounter.pdb
+C:\Users\lapen\Desktop\performanceCounter\performanceCounter\bin\Debug\performanceCounter.exe.config
+C:\Users\lapen\Desktop\performanceCounter\performanceCounter\obj\Debug\performanceCounter.exe
+C:\Users\lapen\Desktop\performanceCounter\performanceCounter\obj\Debug\performanceCounter.pdb
+C:\Users\lapen\Desktop\performanceCounter\performanceCounter\bin\Debug\performanceCounter.exe
+C:\Users\lapen\Desktop\performanceCounter\performanceCounter\bin\Debug\performanceCounter.pdb
+C:\Users\lapen\Desktop\performanceCounter\performanceCounter\obj\Debug\performanceCounter.csprojResolveAssemblyReference.cache
+C:\Users\lapen\Desktop\performanceCounter\performanceCounter\obj\Debug\performanceCounter.Form1.resources
+C:\Users\lapen\Desktop\performanceCounter\performanceCounter\obj\Debug\performanceCounter.Properties.Resources.resources
+C:\Users\lapen\Desktop\performanceCounter\performanceCounter\obj\Debug\performanceCounter.csproj.GenerateResource.Cache
+C:\Users\lapen\Desktop\performanceCounter\performanceCounter\bin\Debug\OpenHardwareMonitorLib.dll
+C:\Users\lapen\Desktop\feleves-master\performanceCounter\performanceCounter\bin\Debug\performanceCounter.exe.config
+C:\Users\lapen\Desktop\feleves-master\performanceCounter\performanceCounter\obj\Debug\performanceCounter.exe
+C:\Users\lapen\Desktop\feleves-master\performanceCounter\performanceCounter\obj\Debug\performanceCounter.pdb
+C:\Users\lapen\Desktop\feleves-master\performanceCounter\performanceCounter\bin\Debug\performanceCounter.exe
+C:\Users\lapen\Desktop\feleves-master\performanceCounter\performanceCounter\bin\Debug\performanceCounter.pdb
+C:\Users\lapen\Desktop\feleves-master\performanceCounter\performanceCounter\obj\Debug\performanceCounter.csprojResolveAssemblyReference.cache
+C:\Users\lapen\Desktop\feleves-master\performanceCounter\performanceCounter\obj\Debug\performanceCounter.Form1.resources
+C:\Users\lapen\Desktop\feleves-master\performanceCounter\performanceCounter\obj\Debug\performanceCounter.Properties.Resources.resources
+C:\Users\lapen\Desktop\feleves-master\performanceCounter\performanceCounter\obj\Debug\performanceCounter.csproj.GenerateResource.Cache
+C:\Users\lapen\Desktop\laptopnewgui\performanceCounter\bin\Debug\performanceCounter.exe.config
+C:\Users\lapen\Desktop\laptopnewgui\performanceCounter\obj\Debug\performanceCounter.exe
+C:\Users\lapen\Desktop\laptopnewgui\performanceCounter\obj\Debug\performanceCounter.pdb
+C:\Users\lapen\Desktop\laptopnewgui\performanceCounter\bin\Debug\performanceCounter.exe
+C:\Users\lapen\Desktop\laptopnewgui\performanceCounter\bin\Debug\performanceCounter.pdb
+C:\Users\lapen\Desktop\laptopnewgui\performanceCounter\bin\Debug\OpenHardwareMonitorLib.dll
+C:\Users\lapen\Desktop\laptopnewgui\performanceCounter\obj\Debug\performanceCounter.csprojResolveAssemblyReference.cache
+C:\Users\lapen\Desktop\laptopnewgui\performanceCounter\obj\Debug\performanceCounter.Form1.resources
+C:\Users\lapen\Desktop\laptopnewgui\performanceCounter\obj\Debug\performanceCounter.Properties.Resources.resources
+C:\Users\lapen\Desktop\laptopnewgui\performanceCounter\obj\Debug\performanceCounter.csproj.GenerateResource.Cache
